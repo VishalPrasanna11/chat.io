@@ -2,7 +2,8 @@
 
 A real-time chat application built using Socket.io for seamless bidirectional communication between clients and the server.
 
-<img width="416" alt="image" src="https://github.com/user-attachments/assets/64bb66e3-4b16-496f-a39d-6da01cebe38d" />
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/64bb66e3-4b16-496f-a39d-6da01cebe38d" /> <img width="418" alt="image" src="https://github.com/user-attachments/assets/ab374642-fa1c-4f8d-bb1a-93fec77d808e" />
+
 
 
 ## What is Socket.io?
