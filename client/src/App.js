@@ -2,7 +2,8 @@ import React, { useEffect, useState, useRef } from 'react';
 import io from 'socket.io-client';
 import Chat from './Chat';
 
-const socket = io('http://localhost:8000');
+const SOCKET_SERVER_URL = process.env.REACT_APP_SOCKET_SERVER_URL || 'http://localhost:8000';
+const socket = io(SOCKET_SERVER_URL);
 
 function App() {
   const [chats, setChats] = useState([]);
